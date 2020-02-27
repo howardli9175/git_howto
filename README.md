@@ -7,3 +7,5 @@ Create an empty Git repository or reinitialize an existing one
 ## git add $file
 Add file contents to the index
 添加文件到暂存区
+
+## add from dev branch
